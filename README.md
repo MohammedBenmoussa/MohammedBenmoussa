@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BENMOUSSA Mohammed</h1>
-<h3 align="center">Enrolled for a engineer's degree in Computer Science with a specialization : Web Intelligence at the ENSIAS college of Engineering (Morocco). Currently studying abroad in Télécom Saint-Étienne - école d'ingénieur nouvelles technologies as a part of my exchange program in France. Interested in diving deep and WEB development into the world of WEB Intelligence.</h3>
+<h3 align="center">I started my IT journey in the field of web development where I had the opportunity to take part in different projects that use new technologies and frameworks such as Spring Boot, React, Angular, MongoDB and there I was able to both give the best of myself and learn the most efficient development practices as well as rigor and teamwork.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/MohammedBenmoussa/MohammedBenmoussa/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedbenmoussa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedbenmoussa" /> </p>
