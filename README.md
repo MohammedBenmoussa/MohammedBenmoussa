@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm BENMOUSSA Mohammed</h1>
 <h3 align="center">I started my IT journey in the field of web development where I had the opportunity to take part in different projects that use new technologies and frameworks such as Spring Boot, React, Angular, MongoDB and there I was able to both give the best of myself and learn the most efficient development practices as well as rigor and teamwork.</h3>
+<p align="center"> 
+  Contribution graph<br>
+  ![contributions_graph](https://github.com/MohammedBenmoussa/MohammedBenmoussa/blob/output/github-contribution-grid-snake.gif)
+</p>
 <img align="right" alt="coding" width="400" src="https://github.com/MohammedBenmoussa/MohammedBenmoussa/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedbenmoussa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedbenmoussa" /> </p>
